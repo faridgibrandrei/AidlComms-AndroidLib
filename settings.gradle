@@ -1,0 +1,3 @@
+rootProject.name = "AidlAPI"
+include ':app'
+include ':aidlapi'
